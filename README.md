@@ -66,9 +66,9 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/lNkVGL4mLDAAAAAC/elaina-nod.gif"  />
-
+  <div align="center">
+    <img align="right" height="250" src="https://media1.tenor.com/m/lNkVGL4mLDAAAAAC/elaina-nod.gif"  />
+  </div>
 ###
 
 <br clear="both">
