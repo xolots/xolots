@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">My name is Hardian Eka Cahyadi<br>I'm a Informatics Engineering Student<br>Currently Study in Universitas Putera Batam</h6>
+<h3 align="center">My name is Hardian Eka Cahyadi<br>I'm a Informatics Engineering Student<br>Currently Study in Universitas Putera Batam</h3>
 
 ###
 
